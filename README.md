@@ -2,6 +2,14 @@
 
 A fully offline-ready, installable chess Progressive Web App.
 
+
+
+## live
+
+ https://pathrabe2416.github.io/download-chess/
+
+
+ 
 ## 📁 File Structure
 
 ```
